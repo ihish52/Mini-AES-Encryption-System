@@ -4,7 +4,6 @@
 ##ID: 28313283
 ##DATE: 04/12/2021
 
-m = 0b1001110001100011 #16-bit encrypted message block
 k = 0b1100001111110000 #16-bit key
 
 irdc_poly = [0,0,1,0,0,1,1] #x^4+x+1
